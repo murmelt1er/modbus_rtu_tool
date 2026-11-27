@@ -1,0 +1,17 @@
+# Quellcode & lokale Build-/Konfigurationsdateien bleiben lokal in OneDrive
+*.py
+*.py[cod]
+*.bat
+*.spec
+*.svg
+*.log
+__pycache__/
+build/
+dist/
+pictures/
+register_catalog.json
+requirements.txt
+device_configs.json
+ibn_list.json
+~$*.xlsx
+Modbus_IBN_Vorlage.xlsx
